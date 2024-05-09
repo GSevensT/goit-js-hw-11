@@ -1,4 +1,3 @@
-//if something goes wrong on the api check this url
 import { BASE_URL, options } from './pixabay-api.js';
 import axios from 'axios';
 import { Notify } from 'notiflix/build/notiflix-aio.js';
